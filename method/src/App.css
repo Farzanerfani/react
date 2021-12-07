@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 20px;
+}
+.App input{
+  margin-right: 5px;
+}
+.form{
+  width: 30%;
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+}
+.form input{
+margin-top: 10px;
+
+}
+.form button{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+
